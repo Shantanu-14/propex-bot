@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "terracez-bot",
+  "private_key_id": "a86304d8bfb8fc976f1dcb32a8570d5235887880",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDV3NfYHv/6A1fk\ndOOt2O+CuTmBYYjQ8gQmK2MXG3tpMP4bFkxXTOhn7KRxf2PZgOnkzA4Xs7d6qMfC\nwPpAubNpkeEnon8qLUZHNMvIbVaXUGkb/VZk4/xFeD79SnU8Xhw5RNNv3jPWp5mX\nltFLIabEtBuAagCR6Tb+dpnDKF4qDWC+/WcfSTo46pGu/D+B/1msWDcLHVoBgliJ\nO9u7u2IL50YmqZusNJNk9tgXHYZBGOuraSsdjnuJ5mgjXuUPMrvfHN4LaLgMRzeK\nektNaMhdTpECaSh5TWiD9dBYw+EiZxbuj97g9yqQBq6LFuHDj70iZDEa//ULDxFX\n3AwQB1wXAgMBAAECggEAFHEC9TvlULLaxvyV5JXh3XdciULW2SNA2pshYgyKQRWM\nkZnnMHL/8IBcfs1j2wl+PGnKsQudroI3xyQ7PKOOBA8MW9r616pd13bdlunohxcJ\nrOy2l3cj3koDj0ymJF/Zx8Q4h4P60CTTQqYzmWr9LeZfOJN+kXPJV2I5CT/bBvQf\n+sSBNSjVJqIkeYraAhegpoaZHKx/Zg5A2Sn0ESpBR2TFZako7uudTd/IyiB3ioPU\nkdv8E/WT1AGpQiGgnJl3mvZiwGQtbw8tCNDI6pDqmf6yuFqd0bSqXYNu23KAE+Ze\nCDCBzAzvvMnlz1rV1zSfByJoomo8iQOK6SCf9+pwCQKBgQDw/4PtHVtCN/C1vylE\n1wulfe4bllH00MtxdCL1XG7K/IJceqvE/gy9FLz09GsJLzRb+T0/Iszukk54dBjT\n1h/x7m3Ui5WQ3jjefZRfzslFd9wiyOtwdoJ82LiM9c9UHiH5HLvc6QYdPkFja+Ij\nWwt5b9gPcxIEbZSY3JB+wLXJaQKBgQDjLOeDU005h3qdOZ/Dc5I2LJQzqnSoe6i0\nhqtBxitr894zue6LJbYNoLlyswz7g6cC9+AdilEXo+zAomX5ibAXszS52CRglQKU\nvoyUx7ihjqckA504b+ODVYIAKGXt9UmbnSfEEpIedfy9V7n6HuHM4PYxFXPUiuvj\nMWfNEW3JfwKBgFH8Ks5EeWI6k5nQsWJo4d5ny9P4vGLTkRJElwvvaQWHB3YciUjX\nwE+muW1/pNYYB/DuBkbvONZEUYuquzN9mZp9KUHwRm5lGuWdxRceytvmHa57uZSl\nzFhahdX2XZTZN2d+ve42G81g+2+uKN0sQOgMA22mENAO00l5Z3KnbnBZAoGAOKlI\njS7HwiOSZ4ip2nwG6dAwnrpTInrFV1GHgX5F8kT/FPO5FaewQrHlzz/tawYpL8pX\ncca/9x+Bu4JF4PmAnEisS/YnDJfd7u+f7LPrzw/fjFICcsMlgepf5F4vHizh0Rhf\nhL4FB+fxw+APmNz/ALTTcuag31BPCXmXJETGl00CgYB6BO1xtiPdTWJCeFcwyUeX\nPKheSEtGN92MLRDqvYC42a0CsLJzmyzl0Ui6/m2K6+3Mgn9770X5W72L1AKiHOPH\n59XZdwf+UQ5VTaEHfJMkazHCjrD6LFY702pawXeCXd/yq3gfZH0YeXx0sHVCILOX\n7ffUzgIQjeiI1f2cauZitg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terracez-bot@terracez-bot.iam.gserviceaccount.com",
+  "client_id": "100450853060642071983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terracez-bot%40terracez-bot.iam.gserviceaccount.com"
+}
